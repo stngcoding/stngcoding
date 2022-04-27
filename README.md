@@ -1,4 +1,4 @@
-Hi 👋 My name is Tung Ta
+Hi 👋 My name is Tung
 ========================
 
 Web and Mobile Developer
