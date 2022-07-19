@@ -8,7 +8,7 @@ I started my coding journey 8 years ago with basic web dev (HTML/CSS) then I swi
 
 * 🌍  I'm based in Hai Phong, Vietnam
 * ✉️  You can contact me at [tungtshp99@gmail.com](mailto:tungtshp99@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning React Native
 
 ### Skills
 
